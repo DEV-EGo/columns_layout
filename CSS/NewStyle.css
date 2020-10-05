@@ -43,12 +43,18 @@ header {
   text-align: center;
 }
 .my-skills {
+  background-color: #1d3c41;
+  color: #fff;
+  padding: 75px 0;
+  text-align: center;
 }
 
 .columns {
+  display: flex;
 }
 
 .column {
+  margin: 0 10px;
 }
 
 /* ========
