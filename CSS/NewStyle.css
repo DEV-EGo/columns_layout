@@ -16,6 +16,9 @@ Typography
 body {
   margin: 0;
   background-image: url(./ios-vs-android-users.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
   justify-content: center;
   height: auto;
 
